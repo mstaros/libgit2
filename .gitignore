@@ -6,3 +6,6 @@
 CMakeSettings.json
 .vs
 .idea
+
+_claude_configure.cmd
+build/
